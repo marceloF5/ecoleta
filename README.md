@@ -1,58 +1,28 @@
-<div align="center">
-  <h1 style="font-size: 50px">
-    :recycle: <i>ecoleta</i>
-  </h1>
-
-  <p>
-    Garbage Collection Application
-  </p>
-
-  <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielccunha/ecoleta">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielccunha/ecoleta">
-	
-  <a href="https://www.linkedin.com/in/daniel-cunha-53053816b/">
-    <img alt="Made by Daniel Cunha" src="https://img.shields.io/badge/made%20by-Daniel%20Cunha-%23">
-  </a>
-
-  <a href="https://github.com/danielccunha/ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielccunha/ecoleta">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
-</p>
-</div>
+<h2 style="color:red" align="center"> :recycle: Ecoleta </h3>
 
 ## :dart: Goals
 
 Ecoleta is a project developed based in honor of the international environment week. We help people find collection points efficiently.
 
-<h1 align="center">
-    <img alt="Example" title="Example" src=".github/ecoleta.png" />
-</h1>
-
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
+Technologies used:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :sparkles: Layout
+## 🤖 Contributing
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+Thank you for being interested on making this package better. We encourage everyone to help improving this project with some new features, bug fixes and performance issues. Please take a little bit of your time to read our guides, so this process can be faster and easier.
 
-## 🙏🏼 Acknowledgments
+### 📖 Contribution Guidelines
 
-I want to thank [Rocketseat](https://github.com/Rocketseat) for this initiative and awesome work (as always).
+Take a moment to read about our [Contribution Guidelines](/.github/CONTRIBUTING.md) so you can understand how to submit an issue, commit and create pull requests.
 
 ## :memo: License
 
-This project is under the MIT license. See [LICENSE](LICENSE) for more details.
-
----
+MIT Licence. See the file LICENSE for more details.
 
 Made with :heart: by Marcelo Fortunato :wave:
